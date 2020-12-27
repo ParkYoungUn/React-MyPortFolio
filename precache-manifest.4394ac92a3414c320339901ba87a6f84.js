@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "24a976a1b6435193063f",
-    "url": "/React-MyPortFolio/static/css/main.aae84c8e.chunk.css"
+    "revision": "11b34f1d1b29c2dd0c4f",
+    "url": "/React-MyPortFolio/static/css/main.6e4e69e0.chunk.css"
   },
   {
-    "revision": "24a976a1b6435193063f",
-    "url": "/React-MyPortFolio/static/js/main.24a976a1.chunk.js"
+    "revision": "11b34f1d1b29c2dd0c4f",
+    "url": "/React-MyPortFolio/static/js/main.11b34f1d.chunk.js"
   },
   {
-    "revision": "731c2605077cb45a488f",
-    "url": "/React-MyPortFolio/static/js/1.731c2605.chunk.js"
+    "revision": "b3b49398200a1e897e24",
+    "url": "/React-MyPortFolio/static/js/1.b3b49398.chunk.js"
   },
   {
     "revision": "517ec99f72fc22b931a0",
@@ -22,6 +22,10 @@ self.__precacheManifest = [
   {
     "revision": "dc6182491d71086c7f9de7ce76a332c4",
     "url": "/React-MyPortFolio/static/media/instagram.dc618249.png"
+  },
+  {
+    "revision": "5418db4f02aa8120b100769183a7e012",
+    "url": "/React-MyPortFolio/static/media/PortFolio.5418db4f.jpg"
   },
   {
     "revision": "cc791bec145b9d9a77a047629fe32fd7",
@@ -88,14 +92,6 @@ self.__precacheManifest = [
     "url": "/React-MyPortFolio/static/media/myprofle_3.7d5e38dc.jpg"
   },
   {
-    "revision": "209dd0503833c1a41bf74d7a58d244b0",
-    "url": "/React-MyPortFolio/static/media/virtual.209dd050.png"
-  },
-  {
-    "revision": "83bffd84d77f844c389f726a8f24d4ab",
-    "url": "/React-MyPortFolio/static/media/smartmirror.83bffd84.png"
-  },
-  {
     "revision": "37e586fb57257d6664d563a2bf3875bf",
     "url": "/React-MyPortFolio/static/media/768px-Kotlin-logo.svg.37e586fb.png"
   },
@@ -116,7 +112,7 @@ self.__precacheManifest = [
     "url": "/React-MyPortFolio/static/media/Redux.59c46753.png"
   },
   {
-    "revision": "c1313bb554b06efbd7418d73f79e4cd0",
+    "revision": "f0db41264a334670503cf09692f84432",
     "url": "/React-MyPortFolio/index.html"
   }
 ];
