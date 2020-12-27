@@ -1,0 +1,140 @@
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+KR:100");
+a {
+  text-decoration: none;
+}
+/* .about_me {
+  display: flex;
+  justify-content: flex-start;
+  margin: 0;
+  background: white;
+  height: 100%;
+  width: 100%;
+} */
+
+/* .about_me_title {
+  margin-left: 6vw;
+  margin-right: 12vw;
+  width: 25vw;
+  box-sizing: border-box;
+  text-align: center;
+  align-self: center;
+} */
+
+.hedding {
+  position: relative;
+  text-align: center;
+  font-size: 2.4em;
+  font-weight: 400;
+  margin: 30px 0;
+}
+
+/* .hedding {
+  position: relative;
+  display: inline-block;
+  font-size: 2.4em;
+  font-weight: 400;
+  margin: 30px 0;
+} */
+
+.svg--container {
+  display: flex;
+  justify-content: space-around;
+  width: 99%;
+  /* padding-right: 15px;
+  padding-left: 15px; */
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+.svg--icons {
+  display: flex;
+  flex-wrap: wrap;
+  /* margin-right: -15px;
+  margin-left: -15px; */
+}
+.svg--icons .svg--icon {
+  flex: auto;
+  padding: 1em 2em 1em 2em;
+}
+
+.inner {
+  display: flex;
+  justify-content: space-around;
+  /* justify-content: center; */
+  /* max-width: 1600px; */
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.profile {
+  text-align: center;
+  font-weight: 900;
+  font-size: 20px;
+  /* flex: 0 0 50%;
+    max-width: 50%; */
+}
+.profile-img {
+  flex: 15% 1;
+  text-align: right;
+}
+.profile-img img {
+  max-width: 184px;
+  height: auto;
+}
+.wrapper-inner {
+  text-align: center;
+}
+.career {
+  /* text-align: center;
+  flex: auto; */
+}
+.education {
+  font-weight: 600;
+  color: cadetblue;
+}
+
+.certificate {
+  font-weight: 600;
+  color: chocolate;
+  margin-top: 50px;
+}
+
+.hedding::after {
+  position: absolute;
+  content: "";
+  top: 100%;
+  height: 2px;
+  width: 50px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  background: rgb(123, 124, 212);
+}
+
+.about_me_content {
+  font-family: "Noto Sans KR", sans-serif;
+  margin-bottom: 4rem;
+  margin-top: 4rem;
+  box-sizing: border-box;
+  padding: 1rem;
+  margin-right: 8vw;
+  width: 100%;
+}
+@media (max-width: 576px) {
+  .about_me {
+    display: inherit;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+  }
+  .about_me_title {
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .about_me_content {
+    display: inline-block;
+    margin-top: 0px;
+    width: 100%;
+  }
+}
