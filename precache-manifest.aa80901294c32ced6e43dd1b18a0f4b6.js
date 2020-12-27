@@ -112,7 +112,7 @@ self.__precacheManifest = [
     "url": "/React-MyPortFolio/static/media/Redux.59c46753.png"
   },
   {
-    "revision": "f0db41264a334670503cf09692f84432",
+    "revision": "0549cce808106219a6c03fab4b881e0a",
     "url": "/React-MyPortFolio/index.html"
   }
 ];
