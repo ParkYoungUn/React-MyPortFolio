@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "05ba07b2b5dcb3bab5a8",
-    "url": "/React-MyPortFolio/static/css/main.7284f262.chunk.css"
+    "revision": "6f9e9b0c3b21dae111cb",
+    "url": "/React-MyPortFolio/static/css/main.86cdaee9.chunk.css"
   },
   {
-    "revision": "05ba07b2b5dcb3bab5a8",
-    "url": "/React-MyPortFolio/static/js/main.05ba07b2.chunk.js"
+    "revision": "6f9e9b0c3b21dae111cb",
+    "url": "/React-MyPortFolio/static/js/main.6f9e9b0c.chunk.js"
   },
   {
     "revision": "b3b49398200a1e897e24",
@@ -112,7 +112,7 @@ self.__precacheManifest = [
     "url": "/React-MyPortFolio/static/media/Redux.59c46753.png"
   },
   {
-    "revision": "28f3fe018b65ccf86d1a1924123c98c0",
+    "revision": "b9362c65343e4a8347a7de83d0d92fa6",
     "url": "/React-MyPortFolio/index.html"
   }
 ];
