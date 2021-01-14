@@ -1,7 +1,7 @@
 {
-  "main.css": "/React-MyPortFolio/static/css/main.86cdaee9.chunk.css",
-  "main.js": "/React-MyPortFolio/static/js/main.6f9e9b0c.chunk.js",
-  "main.js.map": "/React-MyPortFolio/static/js/main.6f9e9b0c.chunk.js.map",
+  "main.css": "/React-MyPortFolio/static/css/main.9cc192ca.chunk.css",
+  "main.js": "/React-MyPortFolio/static/js/main.60f7abc3.chunk.js",
+  "main.js.map": "/React-MyPortFolio/static/js/main.60f7abc3.chunk.js.map",
   "static/js/1.b3b49398.chunk.js": "/React-MyPortFolio/static/js/1.b3b49398.chunk.js",
   "static/js/1.b3b49398.chunk.js.map": "/React-MyPortFolio/static/js/1.b3b49398.chunk.js.map",
   "runtime~main.js": "/React-MyPortFolio/static/js/runtime~main.517ec99f.js",
@@ -30,8 +30,8 @@
   "static/media/icons8-nodejs-500.png": "/React-MyPortFolio/static/media/icons8-nodejs-500.23d4be78.png",
   "static/media/mongodb-logo-1.png": "/React-MyPortFolio/static/media/mongodb-logo-1.daeaaf51.png",
   "static/media/Redux.png": "/React-MyPortFolio/static/media/Redux.59c46753.png",
-  "static/css/main.86cdaee9.chunk.css.map": "/React-MyPortFolio/static/css/main.86cdaee9.chunk.css.map",
+  "static/css/main.9cc192ca.chunk.css.map": "/React-MyPortFolio/static/css/main.9cc192ca.chunk.css.map",
   "index.html": "/React-MyPortFolio/index.html",
-  "precache-manifest.c2b8283bf205b353c063f0726d2da704.js": "/React-MyPortFolio/precache-manifest.c2b8283bf205b353c063f0726d2da704.js",
+  "precache-manifest.6645550c237b1b9cc828aa128acb5249.js": "/React-MyPortFolio/precache-manifest.6645550c237b1b9cc828aa128acb5249.js",
   "service-worker.js": "/React-MyPortFolio/service-worker.js"
 }
