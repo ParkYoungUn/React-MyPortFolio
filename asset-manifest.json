@@ -1,7 +1,7 @@
 {
   "main.css": "/React-MyPortFolio/static/css/main.9cc192ca.chunk.css",
-  "main.js": "/React-MyPortFolio/static/js/main.60f7abc3.chunk.js",
-  "main.js.map": "/React-MyPortFolio/static/js/main.60f7abc3.chunk.js.map",
+  "main.js": "/React-MyPortFolio/static/js/main.12fdd64f.chunk.js",
+  "main.js.map": "/React-MyPortFolio/static/js/main.12fdd64f.chunk.js.map",
   "static/js/1.b3b49398.chunk.js": "/React-MyPortFolio/static/js/1.b3b49398.chunk.js",
   "static/js/1.b3b49398.chunk.js.map": "/React-MyPortFolio/static/js/1.b3b49398.chunk.js.map",
   "runtime~main.js": "/React-MyPortFolio/static/js/runtime~main.517ec99f.js",
@@ -32,6 +32,6 @@
   "static/media/Redux.png": "/React-MyPortFolio/static/media/Redux.59c46753.png",
   "static/css/main.9cc192ca.chunk.css.map": "/React-MyPortFolio/static/css/main.9cc192ca.chunk.css.map",
   "index.html": "/React-MyPortFolio/index.html",
-  "precache-manifest.6645550c237b1b9cc828aa128acb5249.js": "/React-MyPortFolio/precache-manifest.6645550c237b1b9cc828aa128acb5249.js",
+  "precache-manifest.f98f6f4b87bb215b8c05ac7991e2d9f6.js": "/React-MyPortFolio/precache-manifest.f98f6f4b87bb215b8c05ac7991e2d9f6.js",
   "service-worker.js": "/React-MyPortFolio/service-worker.js"
 }
