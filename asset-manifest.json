@@ -1,7 +1,7 @@
 {
   "main.css": "/React-MyPortFolio/static/css/main.9cc192ca.chunk.css",
-  "main.js": "/React-MyPortFolio/static/js/main.12fdd64f.chunk.js",
-  "main.js.map": "/React-MyPortFolio/static/js/main.12fdd64f.chunk.js.map",
+  "main.js": "/React-MyPortFolio/static/js/main.a92dd400.chunk.js",
+  "main.js.map": "/React-MyPortFolio/static/js/main.a92dd400.chunk.js.map",
   "static/js/1.b3b49398.chunk.js": "/React-MyPortFolio/static/js/1.b3b49398.chunk.js",
   "static/js/1.b3b49398.chunk.js.map": "/React-MyPortFolio/static/js/1.b3b49398.chunk.js.map",
   "runtime~main.js": "/React-MyPortFolio/static/js/runtime~main.517ec99f.js",
@@ -24,7 +24,7 @@
   "static/media/Spring.png": "/React-MyPortFolio/static/media/Spring.969fcb16.png",
   "static/media/OracleDatabase.png": "/React-MyPortFolio/static/media/OracleDatabase.fcc769e1.png",
   "static/media/Home.css": "/React-MyPortFolio/static/media/background.574e73f9.png",
-  "static/media/myprofle_3.jpg": "/React-MyPortFolio/static/media/myprofle_3.7d5e38dc.jpg",
+  "static/media/myprofle_2.png": "/React-MyPortFolio/static/media/myprofle_2.ce3674b1.png",
   "static/media/768px-Kotlin-logo.svg.png": "/React-MyPortFolio/static/media/768px-Kotlin-logo.svg.37e586fb.png",
   "static/media/firebase_logo.png": "/React-MyPortFolio/static/media/firebase_logo.b0c12b32.png",
   "static/media/icons8-nodejs-500.png": "/React-MyPortFolio/static/media/icons8-nodejs-500.23d4be78.png",
@@ -32,6 +32,6 @@
   "static/media/Redux.png": "/React-MyPortFolio/static/media/Redux.59c46753.png",
   "static/css/main.9cc192ca.chunk.css.map": "/React-MyPortFolio/static/css/main.9cc192ca.chunk.css.map",
   "index.html": "/React-MyPortFolio/index.html",
-  "precache-manifest.f98f6f4b87bb215b8c05ac7991e2d9f6.js": "/React-MyPortFolio/precache-manifest.f98f6f4b87bb215b8c05ac7991e2d9f6.js",
+  "precache-manifest.9483168d2cb36005ef467a0f9feb1f1e.js": "/React-MyPortFolio/precache-manifest.9483168d2cb36005ef467a0f9feb1f1e.js",
   "service-worker.js": "/React-MyPortFolio/service-worker.js"
 }
